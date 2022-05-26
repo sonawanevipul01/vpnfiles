@@ -16,6 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Atlanta","country":"USA","image":"unitedstates","ip":"3.232.53.186","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"Atlanta","country":"USA","image":"unitedstates","ip":"3.232.53.186","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Atlanta","country":"USA","image":"unitedstates","ip":"3.232.53.186","active":"true","signal":"a"}
   ]
 }
